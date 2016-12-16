@@ -1,0 +1,11 @@
+{
+  "name": "cloudantTest",
+  "description": "Playing with cloudant",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cloudant":"",
+    "dotenv": "*"
+    
+  }
+}
